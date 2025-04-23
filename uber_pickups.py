@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pydeck as pdk
 
-st.title('Uber pickups in NYC_NN2')
+st.title('Uber pickups in NYC')
 
 
 DATE_COLUMN = 'date/time'

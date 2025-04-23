@@ -4,7 +4,8 @@ import numpy as np
 import pydeck as pdk
 
 st.title('Uber pickups in NYC')
-
+st.title('Create by')
+'Narubet Intraprasit'
 
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
